@@ -5,3 +5,4 @@ end
 def array_with_two_elements
   Array.new(["Brand", "New"])
 end
+
