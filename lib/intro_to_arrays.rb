@@ -1,1 +1,3 @@
-def insa
+def instantiate_new_array
+  []
+end
